@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header-section{
+    background-color:#264653;
+}
+.login-btn {
+    background-color:#E76F51;
+    padding:10px 24px;
+    color: #fff;
+    border:none;
+    border-radius: 5px;
+}
