@@ -15,8 +15,8 @@ body{
     color: #E76F51;
 }
 .banner-image{
-    width:550px;
-    height:450px;
+    width:450px;
+    height:350px;
 }
 .feature-image{
     width:280px;
@@ -32,4 +32,8 @@ body{
 .frequent-image{
     width: 425px;
     height:398px;
+}
+.progress-image{
+    width: 450px;
+    height:350px;
 }
