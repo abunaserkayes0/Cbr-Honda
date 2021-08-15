@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.header-section{
+header{
     background-color:#264653;
 }
 .login-btn {
@@ -36,4 +36,18 @@ body{
 .parts-image{
     width: 250px;
     height:250px;
+}
+footer{
+    background-color: #0B0D17;
+    height:280px;
+}
+.footer-nav li{
+    margin-left: 1rem;
+}
+.footer-title{
+    color: #D9DBE1;
+}
+.footer-image{
+    width: 135px;
+    height:40px;
 }
