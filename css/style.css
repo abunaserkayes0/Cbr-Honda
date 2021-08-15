@@ -14,7 +14,7 @@ body{
 .span-text{
     color: #E76F51;
 }
-.banner-image{
+.banner-image,.progress-image{
     width:450px;
     height:350px;
 }
@@ -33,7 +33,7 @@ body{
     width: 425px;
     height:398px;
 }
-.progress-image{
-    width: 450px;
-    height:350px;
+.parts-image{
+    width: 250px;
+    height:250px;
 }
