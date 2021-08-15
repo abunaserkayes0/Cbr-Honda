@@ -1,53 +1,49 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
 }
-header{
-    background-color:#264653;
+
+header {
+    background-color: #264653;
 }
+
 .login-btn {
-    background-color:#E76F51;
-    padding:10px 24px;
+    background-color: #E76F51;
+    padding: 10px 24px;
     color: #fff;
-    border:none;
+    border: none;
     border-radius: 5px;
 }
-.span-text{
+
+.span-text {
     color: #E76F51;
 }
-.banner-image,.progress-image{
-    width:450px;
-    height:350px;
+
+.banner-image,
+.progress-image {
+    width: 450px;
+    height: 350px;
 }
-.feature-image{
-    width:280px;
-    height:240px;
+
+.feature-image {
+    width: 280px;
+    height: 240px;
 }
-.client-image{
-    width:149px;
+
+.client-image {
+    width: 149px;
     height: 149px;
 }
-.filled{
-    color:#E77C40;
+
+.filled {
+    color: #E77C40;
 }
-.frequent-image{
+
+.frequent-image {
     width: 425px;
-    height:398px;
+    height: 398px;
 }
-.parts-image{
+
+.parts-image {
     width: 250px;
-    height:250px;
-}
-footer{
-    background-color: #0B0D17;
-    height:280px;
-}
-.footer-nav li{
-    margin-left: 1rem;
-}
-.footer-title{
-    color: #D9DBE1;
-}
-.footer-image{
-    width: 135px;
-    height:40px;
+    height: 250px;
 }
